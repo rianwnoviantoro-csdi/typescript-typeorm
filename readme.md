@@ -47,5 +47,5 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run dev
+  npm run dev or yarn dev
 ```
